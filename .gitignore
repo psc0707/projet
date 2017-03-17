@@ -1,0 +1,13 @@
+
+# Composer
+/vendor/
+composer.lock
+
+/inc/config.php
+/public/img/
+
+/exo*
+/logo*
+/files
+/*.png
+/projet_toto.php

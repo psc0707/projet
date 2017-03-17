@@ -1,0 +1,14 @@
+{
+    "name": "social/projet",
+    "description": "Social network Composer",
+    "type": "projet",
+    "authors": [
+        {
+            "name": "Psc Psc",
+            "email": "psc0707@gmail.com"
+        }
+    ],
+    "require": {
+        "social-links/social-links": "^1.12"
+    }
+}
